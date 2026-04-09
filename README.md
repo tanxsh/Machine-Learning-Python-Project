@@ -30,7 +30,7 @@ Using regression modeling, unsupervised clustering, and a cluster-enhanced predi
 ## Project Structure
 
 ```
-├── ML_Project_Final_Group_15.ipynb    # Full analysis: EDA, demand modeling, clustering, predictive question
+├── ML Project.ipynb    # Full analysis: EDA, demand modeling, clustering, predictive question
 └── README.md
 ```
 

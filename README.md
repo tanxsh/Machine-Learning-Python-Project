@@ -29,7 +29,7 @@ Using a combination of regression modeling and unsupervised clustering, the anal
 ## Project Structure
 
 ```
-├── ML_Project_Final_Group_15.ipynb    # Full analysis: Data cleaning, EDA, feature engineering, modeling, clustering
+├── ML_Project_Final_Group_15.ipynb    # Data cleaning, EDA, feature engineering, modeling, clustering
 └── README.md
 ```
 

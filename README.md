@@ -90,7 +90,3 @@ Using a combination of regression modeling and unsupervised clustering, the anal
 **Clustering**
 - K-Means identified distinct listing segments (budget, mid-tier, premium) with clear differences in pricing, availability, and review activity
 - DBSCAN successfully flagged anomalous high-price outlier listings that K-Means absorbed into clusters
-
----
-
-*ISBA 2403: Machine Learning with Python — Santa Clara University, Winter 2026*
